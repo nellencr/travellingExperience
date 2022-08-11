@@ -1,0 +1,55 @@
+.App {
+  position: absolute;
+  left: 288px;
+  background-color: bisque;
+  margin-right: 340px;
+  top: 22px;
+  border-radius: 15px;
+}
+
+.image-- {
+  height: 90px;
+}
+
+nav {
+  background: #F55A5A;
+  height: 60px;
+  width: 100%;
+}
+
+h3{
+  color: beige;
+  padding: 20px;
+  position: relative;
+  left: 225px;
+}
+.fa-globe-africa {
+  margin-right: 10px;
+}
+.card {
+  gap: 31px;
+  display: flex;
+  padding: 35px;
+  position: relative;
+  left: 56px;
+}
+
+.fa-map-marker-alt {
+  color: red;
+}
+
+.image-- {
+  height: 179px;
+  width: 143px;
+  border-radius: 9px;
+}
+
+ p {
+  width: 93%;
+  font-size: 13px;
+ }
+ 
+ a {
+    font-size: 11px;
+    margin-left: 5px;
+ }
